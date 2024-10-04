@@ -1,3 +1,37 @@
+A simple Website for Course Scheduling Application
+<br>
+<br>
+Interface without functinality (DEMO version)
+
+<br>
+Used <b>JavaScript & React Framework</b>
+<br>
+
+<br>
+Features:
+<ul>
+    <li>Log In Section</li>
+    <li>Account Creating</li>
+    <li>Course Registration</li>
+    <li>Schedule Creation</li>
+</ul>
+<br>
+<br>
+Webpages of the Wbesite
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/70c7f6ef-28b1-4d08-951c-0706d9c27866" width=700px/><br>
+<img src="https://github.com/user-attachments/assets/85d95b9a-10b5-46e4-a750-be46e0056d69" width=700px/><br>
+<img src="https://github.com/user-attachments/assets/3b7109cf-f10a-48dc-83b7-e3ee47c7ec45" width=700px/><br>
+<img src="https://github.com/user-attachments/assets/9a079df2-daf5-439e-a691-c3e87bc44f95" width=700px/><br>
+<img src="https://github.com/user-attachments/assets/38130f8d-fc4d-4444-a8f7-4c74cb641650" width=700px/><br>
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
