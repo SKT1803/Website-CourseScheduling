@@ -64,7 +64,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-![imh1](https://github.com/user-attachments/assets/55a8881f-e77e-4317-a793-274e22dbf81b)
 
 ### `npm run build` fails to minify
 
