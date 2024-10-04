@@ -16,8 +16,7 @@ Features:
     <li>Schedule Creation</li>
 </ul>
 <br>
-<br>
-Webpages of the Wbesite
+Webpages of the Website
 <br>
 <br>
 <img src="https://github.com/user-attachments/assets/70c7f6ef-28b1-4d08-951c-0706d9c27866" width=700px/><br>
